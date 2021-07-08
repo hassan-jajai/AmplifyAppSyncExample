@@ -1,0 +1,2 @@
+# AmplifyAppSyncExample
+demo aws app
